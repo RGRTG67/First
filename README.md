@@ -1,2 +1,4 @@
-# First
-WindowsFormsApp1是使用C#來製作的一個小遊戲
+# Readme
+WindowsFormsApp1是使用C#來製作的一個小遊戲，
+在60秒內小雞圖示會出現在畫面隨機的地方，透過滑鼠去點擊，
+在時間內盡量點擊越多的小雞吧!
